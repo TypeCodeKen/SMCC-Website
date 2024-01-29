@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.h1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #fff;
+}
+header{
+    background-color: rgb(33, 33, 201);
+    
+}
+img{
+    text-align: left;
+}
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(smcc-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-attachment: fixed;
+    
+}
+nav ul{
+    float: left;
+    text-align: center;
+    margin-right: 20px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    font-size: 30px;
+    color: #fff;
+}
+.logo1{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+a.active,a :hover{
+    border-radius: 3px;
+    border-width: 20px;
+    border: 3px;
+}
+.smcc1{
+    margin-top: 100px;
+    border: 3px solid skyblue;
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(233, 233, 233);
+    
+}
+.Alma{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.page{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.f1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+.hr{
+    height: 10px;
+    color: rgb(82, 82, 82);
+    
+}
+.smcc2{
+    color: yellow;
+    margin-top: 100px;
+    border: 3px solid skyblue;
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(38, 28, 131);
+}
+.text{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+.alma1{
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
